@@ -1,1 +1,1 @@
-# duelyst-enhanced-contrast-mod
+# Duelyst: Enhanced Contrast Mod
